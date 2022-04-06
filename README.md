@@ -1,6 +1,15 @@
 ## Instalar React JS com TypeScript
 `npx create-react-app --template=typescript`
 
+## Libs install
+[Frame Motion]: (https://www.framer.com/motion/)
+[Styled components]: (https://styled-components.com/)
+`npm install framer-motion styled-components`
+
+## Add documentação e tipagem do styled components
+`npm install -D @types/styled-components`
+
+## --------------------------------------------- ##
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
