@@ -1,5 +1,5 @@
 ## By Rocketseat
-## Stop vídeo: 09:44
+## Stop vídeo: 53:16
 (https://www.youtube.com/watch?v=Mf4Se4ZGcG8&list=RDCMUCSfwM5u0Kce6Cce8_S72olg&start_radio=1&t=21s)
 
 ## Instalar React JS com TypeScript
